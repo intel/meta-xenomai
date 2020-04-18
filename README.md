@@ -1,6 +1,6 @@
 # meta-xenomai
 
-This custom layer adds Xenomai(xenomai.org) specific-BSP to build real-time capable Linux images.
+this repo will be cleared soon, pls use https://github.com/intel/meta-xenomai-intel;
 
 See https://github.com/intel/xenomai
 
